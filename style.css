@@ -1,0 +1,24 @@
+body{background-color: #ef420db6;
+    font-family: monospace;
+}
+.left {
+    float: left;
+    padding: 0 20px 20px 0;
+ }  
+h1,h2{
+    text-align: center;
+
+}
+.header{
+    width:100%;
+  
+    top:0;
+    left:0;
+    right:0;
+}
+.section{
+    background-color: bisque;
+}
+.article{
+    background-color: bisque;
+}
